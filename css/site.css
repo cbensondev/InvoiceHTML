@@ -1,0 +1,8 @@
+.print{
+    visibility: visable;
+}
+
+.noprint{
+    visibility: hidden;
+    display: none;
+}
